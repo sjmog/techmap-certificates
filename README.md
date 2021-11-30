@@ -27,7 +27,7 @@ Mr Peevis Butler
 
 People can add credentials on LinkedIn by going to "Edit my Profile". Or, they can follow this link:
 
-https://www.linkedin.com/profile/add?startTask=CERTIFICATION_NAME&name=Techmap certified&organizationId=70420884&issueYear=2021
+https://www.linkedin.com/profile/add?startTask=CERTIFICATION_NAME&name=Techmap%20certified&organizationId=70420884&issueYear=2021
 
 > If you host the PNG certificate somewhere with a publicly-accessible URL, participants can upload the certificate too!
 
