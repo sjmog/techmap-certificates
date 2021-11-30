@@ -1,4 +1,4 @@
-# Techmap certificate
+# Techmap certificates
 
 Generate completion certificates for Techmap using a Photoshop template.
 
@@ -22,4 +22,12 @@ Mr Peevis Butler
 6. Save the files to a subdirectory in the Whatever Dropbox.
 7. Convert the files from PSD to PNG (e.g. using [this service](https://cloudconvert.com/psd-to-png))
 8. Send the certificates to the people.
+
+## Showing certificates on LinkedIn
+
+People can add credentials on LinkedIn by going to "Edit my Profile". Or, they can follow this link:
+
+https://www.linkedin.com/profile/add?startTask=CERTIFICATION_NAME&name=Techmap certified&organizationId=70420884&issueYear=2021
+
+> If you host the PNG certificate somewhere with a publicly-accessible URL, participants can upload the certificate too!
 
