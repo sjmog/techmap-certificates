@@ -17,13 +17,15 @@ Tommmy Wiseau
 Mr Peevis Butler
 ```
 
+> **Protip!** you can use the task `rake scripting:print_cohorts` to generate lists of names in this format, ready to copy and save as a CSV.
+
 
 2. Open the template in Photoshop. (It's in ./template)
 3. Go to "Image => Variables => Data Sets..."
 4. Import the CSV you created as Data Sets
 5. Go to "File => Export => Data Sets as Files..."
 6. Save the files to a subdirectory in the Whatever Dropbox.
-7. Convert the files from PSD to PNG (e.g. using [this service](https://cloudconvert.com/psd-to-png))
+7. Convert the files from PSD to PNG (e.g. using [this service](https://cloudconvert.com/psd-to-png) – we have an account (details on LastPass) which allows unlimited parallel conversions)
 8. Send the certificates to the people.
 
 ## Showing certificates on LinkedIn
